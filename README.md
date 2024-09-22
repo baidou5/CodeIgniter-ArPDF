@@ -25,10 +25,12 @@ $pdf->addText('مرحبا بك!', 20, 30);
 $pdf->output('document.pdf');
 ```
 ## Support ? 
-If I can help in any way, please don't hesitate to ask
-Abdellah Baidou.
-+212 661176711.
-baidou.abd@gmail.com
+ 
+
+- **Abdellah Baidou**
+- +212 661176711
+- baidou.abd@gmail.com
+
 
 ### License:
 [MIT License](https://opensource.org/licenses/MIT)
